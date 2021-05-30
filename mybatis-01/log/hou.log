@@ -1,0 +1,6 @@
+[INFO][21-05-29][com.dao.UserDAOTest]info:进入了testlog4j
+[DEBUG][21-05-29][com.dao.UserDAOTest]debug:进入了testlog4j
+[ERROR][21-05-29][com.dao.UserDAOTest]error:进入了testlog4j
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
